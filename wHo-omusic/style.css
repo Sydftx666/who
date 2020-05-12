@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "vapor";
+  src: url("https://cdn.glitch.com/5a78a4a2-dc8e-4be1-900a-7db6b6854d08%2Fvapor.ttf?v=1589067155862");
+}
+
+body {
+  font-family: vapor;
+}
+h2 {
+  font-family: vapor;
+}
+
+h3 {
+  font-family: vapor;
+}
